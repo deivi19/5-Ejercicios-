@@ -1,0 +1,10 @@
+{
+  "name": "5_ejercicios",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pruebas unitarias para ejercicios de algoritmia",
+  "scripts": {
+    "start": "node \"The-Ejecutor.js\"",
+    "test": "node test/ejercicios.test.js"
+  }
+}
